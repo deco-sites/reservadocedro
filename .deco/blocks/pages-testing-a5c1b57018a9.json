@@ -1,0 +1,44 @@
+{
+  "name": "Home",
+  "path": "/",
+  "sections": [
+    {
+      "__resolveType": "Header"
+    },
+    {
+      "__resolveType": "site/sections/Hero.tsx",
+      "title": "<p>Conforto entre o <strong>céu e a montanha...</strong></p>",
+      "cta": [
+        {
+          "id": "cta_reserva",
+          "href": "/",
+          "text": "Reservar agora"
+        }
+      ],
+      "description": "Venha viver momentos inesquecíveis e descobrir o verdadeiro significado de conforto entre o céu e a montanha. Cada detalhe foi cuidadosamente pensado para proporcionar uma estadia inesquecível, situada a 850 metros de altitude, nossa pousada proporciona vistas deslumbrantes das montanhas da Serra do Rio de Janeiro, criando um refúgio de paz e tranquilidade."
+    },
+    {
+      "__resolveType": "site/sections/Logos.tsx"
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx"
+    },
+    {
+      "__resolveType": "site/sections/ImageWithParagraph.tsx",
+      "placement": "right"
+    },
+    {
+      "__resolveType": "site/sections/BlogPosts.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Testimonials.tsx"
+    },
+    {
+      "__resolveType": "site/sections/Faq.tsx"
+    },
+    {
+      "__resolveType": "Footer"
+    }
+  ],
+  "__resolveType": "website/pages/Page.tsx"
+}
